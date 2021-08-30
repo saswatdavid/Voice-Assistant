@@ -7,7 +7,7 @@ import wikipedia                    # Wikipedia
 import pyjokes                      # Python Jokes
 import sys
 
-assistant_name = 'Rito'
+assistant_name = 'Meghna'
 
 listener = sr.Recognizer()
 
